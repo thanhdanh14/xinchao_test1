@@ -156,6 +156,8 @@
                             <option value="1">- Đại học Công nghệ TP.HCM </option>
                             <option value="2">- Đại học Kinh tế Luật TP.HCM </option>
                             <option value="3">-Đại học Hoa Sen </option>
+                            <option value="4">-Đại học Nông Sen </option>
+
                         </select>
                     </div>
 
